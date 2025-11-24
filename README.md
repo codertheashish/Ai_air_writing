@@ -48,7 +48,7 @@ Powered by **MediaPipe’s machine-learning hand tracking** and **OpenCV**, this
 ### 1️⃣ Clone the Repository
 
 ```bash
-https://github.com/your-username/ai_air_writing.git
+https://github.com/codertheashish/Ai_air_writing.git
 ```
 
 ### 2️⃣ Install Dependencies
